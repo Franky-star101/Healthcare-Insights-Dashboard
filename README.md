@@ -23,7 +23,7 @@ Achieved with PowerBi.The Dashboard visualizes demographic distribution, healthc
 * Monthly Household Income: Nearly 30% earn less than 10,000 per month, with higher income groups progressively decreasing.
 * Insurance Coverage:A majority are covered by NHIF (46.1%), while 42.2% have no insurance.
 * Routine Check-ups and Cancer Screening:A significant proportion of respondents do not undergo regular check-ups or screenings.Those who do tend to follow longer intervals between visits.
-* No. of Children per Household:Small families (1–3 children) dominate (53.3%), while 23.7% have 7+ children.
+* Small families (1–3 children) dominate (53.3%), while 23.7% have 7+ children.
 ## Recommendations
 1. Expand Awareness Campaigns:Educate individuals about the importance of health insurance, targeting underserved populations.
 2. Promote partnerships between public and private sectors to provide affordable premiums.
