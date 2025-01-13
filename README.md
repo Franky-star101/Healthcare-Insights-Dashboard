@@ -1,5 +1,5 @@
 # Healthcare-Insights-Dashboard
-<img width="604" alt="Healthcare Insights Dashboard" src="https://github.com/user-attachments/assets/054c0039-abe8-48d6-8484-21f18eb8f85f" />
+<img width="605" alt="Healthcare Insights Dashboard" src="https://github.com/user-attachments/assets/96fbb1e2-3226-456c-b82b-45e7407d897b" />
 
 ## Data Overview
 The dataset provides a comprehensive view of healthcare access and utilization among sample size of about 6000. It includes demographic, socioeconomic, and healthcare-related information, enabling a detailed analysis of healthcare trends and gaps.
@@ -24,10 +24,12 @@ Achieved with PowerBi.The Dashboard visualizes demographic distribution, healthc
 * Insurance Coverage:A majority are covered by NHIF (46.1%), while 42.2% have no insurance.
 * Routine Check-ups and Cancer Screening:A significant proportion of respondents do not undergo regular check-ups or screenings.Those who do tend to follow longer intervals between visits.
 * Small families (1–3 children) dominate (53.3%), while 23.7% have 7+ children.
+* Data Focused on the central and Western Region.
 ## Recommendations
 1. Expand Awareness Campaigns:Educate individuals about the importance of health insurance, targeting underserved populations.
 2. Promote partnerships between public and private sectors to provide affordable premiums.
 3. Community Health Programs:Organize regular health camps in underserved areas to provide free or subsidized check-ups.
 4. Improved Accessibility in Rural Areas:Increase the number of healthcare centers in underserved regions.
+5. Focused outreach programs can be designed based on high-population regions and also didtribute across the country.
 
 
